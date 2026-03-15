@@ -1,0 +1,2 @@
+writing new automation scripts and getting a clear understanding of it
+Ensuring that no new surprises orthings occur
