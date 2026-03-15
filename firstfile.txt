@@ -1,0 +1,2 @@
+This is the first try and iam practicing
+This is my first java code
